@@ -1,4 +1,4 @@
-# HR Analytics Dashboard (PRDA-03)
+# HR Analytics Dashboard
 
 Analysis of an HR dataset of **22,214 employees** across 13 attributes (department, job title, race, gender, location, hire/term dates, etc.). The project covers KPI reporting, workforce charts, insights and business recommendations.
 
