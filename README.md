@@ -1,4 +1,6 @@
 # HR Analytics Dashboard
+![HR Analytics Dashboard](images/Hr%20analytics%20dashboard.png)
+
 
 Analysis of an HR dataset of **22,214 employees** across 13 attributes (department, job title, race, gender, location, hire/term dates, etc.). The project covers KPI reporting, workforce charts, insights and business recommendations.
 
